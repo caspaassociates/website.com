@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    color:white;
+}
+
+.profile-image-wrapper img {
+    width:370px;
+}
+
+.profile-content-wrapper ol li {
+    font-family: 'Raleway', sans-serif;
+    line-height: 2.5em; 
+    font-weight: 300;
+    max-width: 600px;
+    margin: auto;
+}
